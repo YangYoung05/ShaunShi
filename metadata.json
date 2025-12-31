@@ -1,0 +1,9 @@
+{
+  "name": "Jarvis",
+  "description": "未来派 AI 助手，具备视觉、语音和记忆能力。",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
